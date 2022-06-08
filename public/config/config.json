@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2e26598631aC99D2661A6da2d76b32981DDbe404",
+  "SCAN_LINK": "https://bscscan.com/address/0x2e26598631aC99D2661A6da2d76b32981DDbe404",
+  "NETWORK": {
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Degenetard",
+  "SYMBOL": "DTARDNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
